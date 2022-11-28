@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minechanjp&count_private=true)](https://github.com/minechanjp)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=minechanjp)
