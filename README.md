@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-    Using editor , learning langs, and social media
+    Using Editor ,Learning Languages, and Social Medias
     <br><br>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,visualstudio,github,figma" alt="editors"><br>
