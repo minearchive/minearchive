@@ -1,7 +1,7 @@
 <div align="center">
     <h1> Hello! </h1>
     <div> I'm a high school student learning something I want to learn... </div>
-    <div> I live in Japan🇯🇵 Okyama</div>
+    <div> I live in Japan🇯🇵 Okayama</div>
 </div>
 
 ---
