@@ -11,7 +11,7 @@
     <br><br>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,visualstudio,github,figma" alt="editors"><br>
-        <img src="https://skillicons.dev/icons?i=java,python,js,php,vue,html,css,laravel,md" alt="lang"><br>
+        <img src="https://skillicons.dev/icons?i=java,python,js,php,vue,rust,html,css,laravel,md" alt="lang"><br>
     </a>
     <a href="https://twitter.com/MineBArchive"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter"></a>
     <a href="https://github.com/minechanjp"><img src="https://skillicons.dev/icons?i=github" alt="github"></a>
