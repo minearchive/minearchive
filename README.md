@@ -16,7 +16,7 @@
     <a href="https://twitter.com/MineBArchive"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter"></a>
     <a href="https://github.com/minearchive"><img src="https://skillicons.dev/icons?i=github" alt="github"></a>
     <a href="https://open.spotify.com/user/lt7cv1bqy0girlzdwwtk407zr">
-        <img src="2aaaa.svg">
+        <img src="Spotify.svg">
     </a><br><br>
 </div>
 
