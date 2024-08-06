@@ -38,7 +38,7 @@ div#vc-spotify-player {
     }
 }
 
-@media(max-width: 900px) {
+@media(max-width: 750px) {
     .sidebar_a4d4d9 {
         animation: shrinkAndFadeOut 0.2s forwards;
     }
@@ -48,7 +48,7 @@ div#vc-spotify-player {
     }
 }
 
-@media(min-width: 901px) {
+@media(min-width: 751px) {
     .sidebar_a4d4d9 {
         animation: expandAndFadeIn 0.2s forwards;
     }
@@ -58,27 +58,16 @@ div#vc-spotify-player {
     }
 }
 
-@media(max-width: 750px) {
+@media(max-width: 900px) {
     .container_cbd271 {
         animation: shrinkAndFadeOut 0.2s forwards;
     }
 }
 
-@media(min-width: 751px) {
+@media(min-width: 901px) {
     .container_cbd271 {
         animation: expandAndFadeIn 0.2s forwards;
     }
-}
-
-
-.container_b558d0 {
-    transition: transform 0.1s ease, box-shadow 0.1s ease;
-}
-
-
-.container_b558d0:hover {
-    transform: scale(1.01);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .theme-dark .bg_d4b6c5 {
