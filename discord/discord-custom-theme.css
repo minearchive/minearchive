@@ -76,6 +76,6 @@ div#vc-spotify-player {
 
 #vc-spotify-player {
     background: rgba(0, 0, 0, 0) !important;
-    border: 1px solid rgba(255, 255, 255, 0.3) !important; /* 境界線（オプション） */
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
     border-color: rgb(0, 0, 0);
 }
