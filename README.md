@@ -2,7 +2,6 @@
     <h1> Hello! </h1>
     <div> I'm university student! Just learning programing.</div>
     <div> I live in Japan🇯🇵 Kochi</div>
-    <div> University: Kochi University of Tech</div>
 </div>
 
 ---
